@@ -1,4 +1,4 @@
-##PHP-CS-Fixer 
+## PHP-CS-Fixer 
 
 PHP-CS-Fixer  A  tool  to  automatically  fix  PHP  coding  standards  issues,  more  info  can  be  found  [here](https://www.dropbox.com/referrer_cleansing_redirect?hmac=7QV6QH7hprpQT1m5qiUJVwzqVGzvHCY09uklwo7HDFM%3D&url=http%3A%2F%2Fcs.sensiolabs.org%2F).
 
